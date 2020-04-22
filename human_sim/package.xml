@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>human_sim</name>
+  <version>2.0.2</version>
+  <description>The human_sim package</description>
+  <maintainer email="abc@todo.todo">abc</maintainer>
+  <license>TODO</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>geometry_msgs</depend>
+  <depend>roscpp</depend>
+  <depend>tf</depend>
+  <depend>std_msgs</depend>
+  <depend>senor_msgs</depend>
+  <depend>dynamic_reconfigure</depend>
+  <depend>ugv_course_libs</depend>
+  <depend>visualization_msgs</depend>
+  <export>
+  </export>
+</package>
